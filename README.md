@@ -31,7 +31,7 @@ I'm an ICT student specialising in Multimedia Applications with a focus on Web D
 * Co-designed an application aimed at diversifying learning styles by offering different types of educational content for students.
 
 ## SKILLS
-* **Web Development:** HTML, CSS, React, Javasceipt, MERN Stack, Site Management, and Responsive Design.
+* **Web Development:** HTML, CSS, React, Javascript, MERN Stack, Site Management, and Responsive Design.
 * **Digital Marketing:** SEO, Content Strategy, Google Analytics, and Creative Suite.
 * **Multimedia Design:** UI Design, User Personas, and Multimedia Integration.
 
