@@ -108,5 +108,4 @@ I'm an ICT student specialising in Multimedia Applications with a focus on Web D
 
 
 <video src="0330.mp4" controls width="100%">
-  Your browser does not support the video tag. Please download the video to view it.
 </video>
