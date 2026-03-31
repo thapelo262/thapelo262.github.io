@@ -28,11 +28,10 @@ I am an Information and Communication Technology (ICT) student at the Cape Penin
 * Figma
 * Adobe Creative Suite
 * WordPress & CMS Frameworks
-* GitHub & Git Version Control
 
 **Digital Marketing**
 * SEO (Search Engine Optimization)
-* Content Strategy
+* Brand guide
 * Google Analytics
 
 ---
