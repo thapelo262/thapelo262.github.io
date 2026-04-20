@@ -86,34 +86,34 @@ I am an Information and Communication Technology (ICT) student at the Cape Penin
 ## ✍️ REFLECTIONS (STAR METHOD)
 
 ### 📘 Coding in Markdown
-**Situation:** I needed to convert my professional CV into a web-ready format for my digital portfolio assessment.  
-**Task:** The goal was to use Markdown syntax to ensure my technical skills and projects were structured correctly for a GitHub environment.  
-**Action:** I utilized headers, bold text, and tables to create a clean and readable layout.  
-**Result:** I successfully created a professional portfolio that clearly presents my work and skills.
+**Situation:** I needed to convert my CV into a web-ready format for my digital portfolio.  
+**Task:** My goal was to structure my projects and skills clearly using Markdown.  
+**Action:** I used headings, lists, and tables to organise content in a clean and readable way.  
+**Result:** I created a professional portfolio that presents my work clearly and effectively.
 
 ---
 
 ### 🎤 Mock Interview Experience
-**Situation:** I recorded a mock interview to simulate a real job interview.  
-**Task:** I needed to present myself professionally and answer questions clearly within a time limit.  
-**Action:** I prepared by reviewing my projects and practiced answering questions using the STAR method.  
-**Result:** This improved my confidence and communication skills for real interview situations.
+**Situation:** I completed a mock interview to simulate a real job interview.  
+**Task:** I needed to present my skills confidently and answer questions clearly.  
+**Action:** I prepared by reviewing my projects and practising my responses.  
+**Result:** I improved my confidence and communication skills for real interviews.
 
 ---
 
 ### 🌐 GitHub Pages Deployment
 **Situation:** I needed to publish my portfolio online.  
-**Task:** My objective was to deploy my repository using GitHub Pages.  
-**Action:** I configured my repository and enabled GitHub Pages from the main branch.  
-**Result:** My portfolio is now live and accessible, showcasing my work professionally.
+**Task:** My objective was to deploy my repository so it could be accessed publicly.  
+**Action:** I enabled GitHub Pages and ensured all files and links worked correctly.  
+**Result:** My portfolio is now live and professionally presented online.
 
 ---
 
 ### 🤝 Graduate Attributes: Ubuntu
 **Situation:** Many students struggle to find bursary information.  
-**Task:** I wanted to use my skills to help solve this problem.  
-**Action:** I developed Circuit SA to provide accessible information.  
-**Result:** The platform helps students access opportunities more easily.
+**Task:** I wanted to create a solution that helps students access opportunities.  
+**Action:** I developed Circuit SA as a platform to share this information.  
+**Result:** The platform improves access to opportunities for students.
 
 ---
 
@@ -134,10 +134,10 @@ I'm an ICT student specialising in Multimedia Applications with a focus on Web D
 
 ### EDUCATION
 **National Diploma: Information Technology**  
-*Cape Peninsula University of Technology (CPUT) | Expected Graduation 2026*  
+*Cape Peninsula University of Technology (CPUT) | Expected Graduation 2026*
 
 **National Senior Certificate (Matric)**  
-*Michael Denga Ramabulana Secondary School | 2021*  
+*Michael Denga Ramabulana Secondary School | 2021*
 
 ---
 
