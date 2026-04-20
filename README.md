@@ -46,16 +46,14 @@ I am an Information and Communication Technology (ICT) student at the Cape Penin
 **Description:** Conceptualized a health application designed to shorten healthcare queues by handling appointments and medical administrative tasks online.
 
 #### 📸 Design Evidence (Figma UI/UX)
-*The following images demonstrate the user flow from the initial log-in to the central administrative dashboard.*
-
-| Login Page Mockup | Dashboard Interface |
-|------------------|--------------------|
-| ![Log In](log-in-page.png) | ![MediTrack Dashboard](images/home-page.png) |
+| **Login Page Mockup** | **Dashboard Interface** |
+| :--- | :--- |
+| ![Log In](images/log-in-page.png) | ![MediTrack Dashboard](images/home-page.png) |
+| | |
 
 #### ⚙️ Technical Development (React)
-*This screenshot shows the functional product catalog built using React to manage clinical inventory.*
-
 ![MediTrack React Product Page](images/products-page.png)
+
 
 ---
 
@@ -68,6 +66,12 @@ I am an Information and Communication Technology (ICT) student at the Cape Penin
 ### 3. VeldtView 
 **Role:** Lead Developer & Creator  
 **Description:** A multimedia web platform. Leveraged CMS frameworks to manage multimedia content, ensuring the platform remains high-performing across different web browsers.
+
+#### 📸 Performance & SEO Evidence
+| **Search Visibility (SEO)** | **AdSense Performance** |
+| :--- | :--- |
+| ![VeldtView SEO](images/veldt.jpeg) | ![VeldtView Analytics](images/veldt2.jpeg) |
+| | |
 
 ---
 
@@ -90,25 +94,15 @@ I am an Information and Communication Technology (ICT) student at the Cape Penin
 I'm an ICT student specialising in Multimedia Applications with a focus on Web Development and Digital Marketing. Right now, I'm looking for a Work Integrated Learning placement where I can jump in, contribute, and grow with a professional team while applying my skills in the MERN stack and CMS management.
 
 ### EDUCATION
-**National Diploma: Information Technology**  
-*Cape Peninsula University of Technology (CPUT) | Expected Graduation 2026*  
+**National Diploma: Information Technology** *CPUT | Expected Graduation 2026*
 * **Major:** Multimedia Applications | **Elective:** Digital Marketing
 
-**National Senior Certificate (Matric)**  
-*Michael Denga Ramabulana Secondary School | 2021*  
+**National Senior Certificate (Matric)** *Michael Denga Ramabulana Secondary School | 2021*
 * **Achievement:** Diploma Pass
 
-### WORK EXPERIENCE 
-**Lead Developer & Creator | Independent Projects** | *2025 - Present*
-* **Circuit SA:** Built with WordPress for high accessibility and cross-browser performance.
-* **VeldtView:** Utilized CMS frameworks for multimedia content optimization.
-
-**Project Lead | MediTrack (Health App)** | *2025*
-* Led the UI/UX design and React development for an online healthcare management system.
-
 ### REFERENCES
-* **Meagan Danielle Hamman** - CPUT - HAMMANM@cput.ac.za
-* **Thurlo Dean Cicero** - CPUT - cicerot@cput.ac.za
+* **Meagan Danielle Hamman** - HAMMANM@cput.ac.za
+* **Thurlo Dean Cicero** - cicerot@cput.ac.za
 
 ---
 
