@@ -1,8 +1,6 @@
-<p align="center">
-# 💼 MY PORTFOLIO  
-## 👋 Hi, I'm Thapelo Justin Masingi  
-### 🚀 Full-Stack Web Developer & Digital Marketer  
-</p>
+# 💼 MY PORTFOLIO
+## 👋 Hi, I'm Thapelo Justin Masingi
+### 🚀 Full-Stack Web Developer & Digital Marketer
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-FullStack%20Development-blue?style=for-the-badge">
@@ -12,32 +10,20 @@
 
 ---
 
-<div align="center">
-
-## 👨‍💻 ABOUT ME  
-
+## 👨‍💻 ABOUT ME
 I am an Information and Communication Technology (ICT) student at the Cape Peninsula University of Technology (CPUT), specializing in Multimedia Applications. I am deeply passionate about web development and digital marketing. I love building digital solutions that actually make life easier, and I am a natural problem-solver who enjoys bridging the gap between clean code and great user experiences.
-
-</div>
 
 ---
 
-<div align="center">
-
-## 🎯 MY VISION & GOALS  
-
-</div>
-
+## 🎯 MY VISION & GOALS
 * **My Vision:** To bridge the gap between complex coding and intuitive user design by building inclusive, accessible, and high-performing digital solutions for everyday problems.
 * **My Goals:** My primary career goal is to evolve into a Web Developer Specialist. I aim to master both front-end aesthetics and back-end architecture to lead innovative digital projects in the ICT industry.
 
 ---
 
-<div align="center">
+## 🛠️ TECH STACK
 
-## 🛠️ TECH STACK  
-
-### 💻 Development  
+### 💻 Development
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
@@ -45,15 +31,13 @@ I am an Information and Communication Technology (ICT) student at the Cape Penin
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)
 ![PHP](https://img.shields.io/badge/PHP-purple?style=flat&logo=php)
 
-### 🗄️ Database  
+### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql)
 
-### 🎨 Tools  
+### 🎨 Tools
 ![Figma](https://img.shields.io/badge/Figma-pink?style=flat&logo=figma)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat&logo=visual-studio-code)
 ![WordPress](https://img.shields.io/badge/WordPress-blue?style=flat&logo=wordpress)
-
-</div>
 
 ---
 
@@ -62,8 +46,6 @@ I am an Information and Communication Technology (ICT) student at the Cape Penin
 ### 1. MediTrack (2025)
 **Role:** Project Lead  
 **Description:** Conceptualized a health application designed to shorten healthcare queues by handling appointments and medical administrative tasks online.
-
-<div align="center">
 
 #### 📸 Design Evidence (Figma UI/UX)
 
@@ -74,8 +56,6 @@ I am an Information and Communication Technology (ICT) student at the Cape Penin
 #### ⚙️ Technical Development (React)
 
 ![MediTrack React Product Page](products-page.png)
-
-</div>
 
 ---
 
@@ -89,15 +69,11 @@ I am an Information and Communication Technology (ICT) student at the Cape Penin
 **Role:** Lead Developer & Creator  
 **Description:** A multimedia web platform. Leveraged CMS frameworks to manage multimedia content, ensuring the platform remains high-performing across different web browsers.
 
-<div align="center">
-
 #### 📸 Performance & SEO Evidence
 
 | Search Visibility (SEO) | AdSense Performance |
 |------------------------|--------------------|
 | ![VeldtView SEO](veldt.jpeg) | ![VeldtView Analytics](veldt2.jpeg) |
-
-</div>
 
 ---
 
@@ -172,11 +148,9 @@ I'm an ICT student specialising in Multimedia Applications with a focus on Web D
 ---
 
 ## 🎥 MOCK INTERVIEW 
-<p align="center">
 <video controls width="100%">
   <source src="0330.mp4" type="video/mp4">
 </video>
-</p>
 
 ---
 
