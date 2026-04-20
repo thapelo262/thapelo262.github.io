@@ -50,7 +50,7 @@ I am an Information and Communication Technology (ICT) student at the Cape Penin
 
 | Login Page Mockup | Dashboard Interface |
 |------------------|--------------------|
-| ![MediTrack Login](images/log-in-page.png) | ![MediTrack Dashboard](images/home-page.png) |
+| ![Log In](log-in-page.png) | ![MediTrack Dashboard](images/home-page.png) |
 
 #### ⚙️ Technical Development (React)
 *This screenshot shows the functional product catalog built using React to manage clinical inventory.*
