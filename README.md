@@ -46,14 +46,12 @@ I am an Information and Communication Technology (ICT) student at the Cape Penin
 **Description:** Conceptualized a health application designed to shorten healthcare queues by handling appointments and medical administrative tasks online.
 
 #### 📸 Design Evidence (Figma UI/UX)
-| **Login Page Mockup** | **Dashboard Interface** |
-| :--- | :--- |
-| ![Log In](images/log-in-page.png) | ![MediTrack Dashboard](images/home-page.png) |
-| | |
+| Login Page Mockup | Dashboard Interface |
+|------------------|--------------------|
+| ![Log In](log-in-page.png) | ![Dashboard](home-page.png) |
 
 #### ⚙️ Technical Development (React)
-![MediTrack React Product Page](images/products-page.png)
-
+![MediTrack React Product Page](products-page.png)
 
 ---
 
@@ -68,16 +66,43 @@ I am an Information and Communication Technology (ICT) student at the Cape Penin
 **Description:** A multimedia web platform. Leveraged CMS frameworks to manage multimedia content, ensuring the platform remains high-performing across different web browsers.
 
 #### 📸 Performance & SEO Evidence
-| **Search Visibility (SEO)** | **AdSense Performance** |
-| :--- | :--- |
-| ![VeldtView SEO](images/veldt.jpeg) | ![VeldtView Analytics](images/veldt2.jpeg) |
-| | |
+| Search Visibility (SEO) | AdSense Performance |
+|-------------------------|---------------------|
+| ![VeldtView SEO](veldt.jpeg) | ![VeldtView Analytics](veldt2.jpeg) |
 
 ---
 
 ### 4. Style Mentor (2024)
 **Role:** Co-Designer  
 **Description:** A collaborative project aimed at diversifying learning styles by offering different types of educational content for students.
+
+---
+
+## ✍️ REFLECTIONS (STAR METHOD)
+
+### 📘 Coding in Markdown
+* [cite_start]**Situation:** I needed to convert my professional CV into a web-ready format for my digital portfolio assessment [cite: 818-819].
+* [cite_start]**Task:** The goal was to use Markdown syntax to ensure my technical skills and projects were structured correctly for a GitHub environment [cite: 809-811].
+* [cite_start]**Action:** I utilized headers, bold emphasis, and tables to create a clean visual hierarchy that is easy for recruiters to read [cite: 231-251, 322].
+* [cite_start]**Result:** I successfully coded a responsive CV that proves my ability to use developer-standard documentation tools[cite: 824].
+
+### 🎤 Mock Interview Experience
+* [cite_start]**Situation:** I recorded a 2-minute interview to practice marketing my technical skills to industry recruiters [cite: 135-136, 182].
+* [cite_start]**Task:** I had to answer four core questions while strictly adhering to the 2-minute time limit [cite: 182-185].
+* [cite_start]**Action:** I applied the STAR method to describe my experience with the **Style Mentor** project and focused on a professional tone [cite: 189-201].
+* [cite_start]**Result:** This exercise improved my ability to provide high-impact answers, preparing me for real-world recruitment[cite: 135, 824].
+
+### 🌐 GitHub Pages Deployment
+* [cite_start]**Situation:** To finalize my work-readiness training, I needed to host my digital portfolio live [cite: 815-816].
+* [cite_start]**Task:** My objective was to deploy my repository so that lecturers and recruiters could access my evidence of learning live[cite: 749, 815].
+* [cite_start]**Action:** I configured my repository visibility and enabled deployment from the 'main' branch through the GitHub Pages settings [cite: 380-386].
+* [cite_start]**Result:** My portfolio is now live, showcasing my technical competency in version control and cloud deployment[cite: 824].
+
+### 🤝 Graduate Attributes: Ubuntu
+* **Situation:** Many South African students struggle to find centralized information regarding bursaries and learnerships.
+* [cite_start]**Task:** I wanted to use my ICT skills to serve the collective and demonstrate the CPUT graduate attribute of **Ubuntu** [cite: 463-464].
+* **Action:** I developed **Circuit SA**, a free, responsive platform designed to bridge this information gap.
+* [cite_start]**Result:** By launching this resource, I proved that technical expertise is most valuable when used to solve community challenges[cite: 468].
 
 ---
 
@@ -88,13 +113,12 @@ I am an Information and Communication Technology (ICT) student at the Cape Penin
 * **Address:** 10 Dorset Str, Woodstock CPT
 * **Contact Number:** 0647010896
 * **Student Email:** 223050717@MYCPUT.AC.ZA
-* **LinkedIn:** [Thapelo Masingi](https://www.linkedin.com/in/thapelo-masingi)
 
 ### CAREER OBJECTIVES
 I'm an ICT student specialising in Multimedia Applications with a focus on Web Development and Digital Marketing. Right now, I'm looking for a Work Integrated Learning placement where I can jump in, contribute, and grow with a professional team while applying my skills in the MERN stack and CMS management.
 
 ### EDUCATION
-**National Diploma: Information Technology** *CPUT | Expected Graduation 2026*
+**National Diploma: Information Technology** *Cape Peninsula University of Technology (CPUT) | Expected Graduation 2026*
 * **Major:** Multimedia Applications | **Elective:** Digital Marketing
 
 **National Senior Certificate (Matric)** *Michael Denga Ramabulana Secondary School | 2021*
