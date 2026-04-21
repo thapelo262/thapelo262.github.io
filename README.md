@@ -83,7 +83,7 @@ I am an Information and Communication Technology (ICT) student at the Cape Penin
 
 ---
 
-## ✍️ REFLECTIONS (STAR METHOD)
+## ✍️ REFLECTIONS
 
 ### 📘 Coding in Markdown
 **Situation:** I needed to convert my CV into a web-ready format for my digital portfolio.  
