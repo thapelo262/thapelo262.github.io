@@ -1,6 +1,6 @@
 # 💼 MY PORTFOLIO
 ## 👋 Hi, I'm Thapelo Justin Masingi
-### 🚀 Full-Stack Web Developer & Digital Marketer
+### 🚀 Full-Stack Web Developer | Multimedia Creative | Digital Marketer
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-FullStack%20Development-blue?style=for-the-badge">
@@ -8,22 +8,61 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20WIL-orange?style=for-the-badge">
 </p>
 
+<p align="center">
+ Passionate about building digital experiences that combine clean code, modern design, and real-world impact.
+</p>
+
+<p align="center">
+📍 Cape Town, South Africa | 🎓 ICT Multimedia Student at CPUT | 🌱 Currently growing in React & Full-Stack Development
+</p>
+
 ---
 
 ## 👨‍💻 ABOUT ME
-I am an Information and Communication Technology (ICT) student at the Cape Peninsula University of Technology (CPUT), specializing in Multimedia Applications. I am deeply passionate about web development and digital marketing. I love building digital solutions that actually make life easier, and I am a natural problem-solver who enjoys bridging the gap between clean code and great user experiences.
+
+I’m an Information and Communication Technology (ICT) student at the Cape Peninsula University of Technology (CPUT), specialising in Multimedia Applications with a strong focus on Full-Stack Development and Digital Marketing.
+
+I enjoy creating digital solutions that solve practical problems and improve everyday experiences. My background in multimedia gives me a unique perspective — I don't just build applications that work; I focus on creating experiences that feel intuitive, accessible, and visually engaging.
+
+I naturally enjoy bridging the gap between development and design by combining front-end creativity with back-end functionality.
+
+Currently, I’m actively looking for a **Work Integrated Learning (WIL)** opportunity where I can contribute, learn from experienced developers, and continue growing into a professional full-stack engineer.
+
+Outside of coding, I enjoy exploring design trends, learning new technologies, and turning ideas into meaningful products.
 
 ---
 
-## 🎯 MY VISION & GOALS
-* **My Vision:** To bridge the gap between complex coding and intuitive user design by building inclusive, accessible, and high-performing digital solutions for everyday problems.
-* **My Goals:** My primary career goal is to evolve into a Web Developer Specialist. I aim to master both front-end aesthetics and back-end architecture to lead innovative digital projects in the ICT industry.
+## 🎯 MY MISSION
+
+To create innovative digital experiences that combine technology and creativity while making information and services more accessible for people.
+
+---
+
+## 🌟 WHAT DRIVES ME
+
+✔ Solving real-world problems  
+✔ Building user-focused experiences  
+✔ Continuous learning and growth  
+✔ Combining creativity with technology  
+✔ Creating meaningful digital impact
+
+---
+
+## 💡 WHAT I BRING
+
+🚀 Full-stack development mindset  
+🎨 Multimedia and UI/UX background  
+📈 Digital marketing and SEO awareness  
+🤝 Strong collaboration and communication skills  
+🧠 Fast learner with a problem-solving approach  
+📱 Responsive design and accessibility thinking
 
 ---
 
 ## 🛠️ TECH STACK
 
 ### 💻 Development
+
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
@@ -32,20 +71,44 @@ I am an Information and Communication Technology (ICT) student at the Cape Penin
 ![PHP](https://img.shields.io/badge/PHP-purple?style=flat&logo=php)
 
 ### 🗄️ Database
+
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql)
 
-### 🎨 Tools
+### 🎨 Design & Productivity
+
 ![Figma](https://img.shields.io/badge/Figma-pink?style=flat&logo=figma)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat&logo=visual-studio-code)
 ![WordPress](https://img.shields.io/badge/WordPress-blue?style=flat&logo=wordpress)
 
 ---
 
-## 💡 PROJECTS
+## 📚 CURRENTLY LEARNING
+
+🌱 MERN Stack Development  
+🌱 Backend Architecture  
+🌱 API Integration  
+🌱 Advanced React Patterns  
+🌱 SEO Strategy & Technical Optimization
+
+---
+
+## 💡 FEATURED PROJECTS
 
 ### 1. MediTrack (2025)
-**Role:** Project Lead  
-**Description:** Conceptualized a health application designed to shorten healthcare queues by handling appointments and medical administrative tasks online.
+
+**Role:** Project Lead
+
+**Overview:**  
+MediTrack was created to tackle one of the biggest challenges in healthcare — long waiting times and administrative inefficiencies.
+
+The application focuses on improving access to healthcare by allowing users to manage appointments and streamline medical administration digitally.
+
+**Skills Applied:**
+
+✔ UI/UX Design  
+✔ Research & Problem Solving  
+✔ React Development  
+✔ User-Centered Design
 
 #### 📸 Design Evidence (Figma UI/UX)
 
@@ -59,101 +122,165 @@ I am an Information and Communication Technology (ICT) student at the Cape Penin
 
 ---
 
-### 2. Circuit SA (2025 - Present)
-**Role:** Lead Developer & Creator  
-**Description:** A platform providing information about bursaries and learnerships in South Africa. Developed using WordPress to ensure seamless cross-browser compatibility and accessibility for students on all devices.
+### 2. Circuit SA (2025 – Present)
+
+**Role:** Lead Developer & Creator
+
+Circuit SA was developed to help students discover bursaries, learnerships, and opportunities across South Africa.
+
+The platform aims to remove barriers to information accessibility and create opportunities for young people.
+
+**Skills Applied:**
+
+✔ WordPress Development  
+✔ Content Management  
+✔ SEO Optimization  
+✔ Information Architecture
 
 ---
 
-### 3. VeldtView 
-**Role:** Lead Developer & Creator  
-**Description:** A multimedia web platform. Leveraged CMS frameworks to manage multimedia content, ensuring the platform remains high-performing across different web browsers.
+### 3. VeldtView
+
+**Role:** Lead Developer & Creator
+
+A multimedia-focused platform designed to deliver engaging content experiences while maintaining accessibility, SEO visibility, and performance.
 
 #### 📸 Performance & SEO Evidence
 
-| Search Visibility (SEO) | AdSense Performance |
-|------------------------|--------------------|
+| Search Visibility | Performance Analytics |
+|------------------|----------------------|
 | ![VeldtView SEO](veldt.jpeg) | ![VeldtView Analytics](veldt2.jpeg) |
 
 ---
 
 ### 4. Style Mentor (2024)
-**Role:** Co-Designer  
-**Description:** A collaborative project aimed at diversifying learning styles by offering different types of educational content for students.
+
+**Role:** Co-Designer
+
+A collaborative educational project designed to support diverse learning styles by providing multiple content formats for students.
+
+**Skills Applied:**
+
+✔ Team Collaboration  
+✔ Brand Identity  
+✔ User Experience Design  
+✔ Wireframing
+
+---
+
+## 📈 MY DEVELOPMENT JOURNEY
+
+I believe growth happens by building.
+
+Every project I create teaches me something new — whether it is debugging React applications, refining UI systems, improving accessibility, or understanding user behaviour.
+
+I enjoy documenting that process because learning publicly creates opportunities for collaboration and continuous improvement.
 
 ---
 
 ## ✍️ REFLECTIONS
 
 ### 📘 Coding in Markdown
-**Situation:** I needed to convert my CV into a web-ready format for my digital portfolio.  
-**Task:** My goal was to structure my projects and skills clearly using Markdown.  
-**Action:** I used headings, lists, and tables to organise content in a clean and readable way.  
-**Result:** I created a professional portfolio that presents my work clearly and effectively.
+
+**Situation:** Needed to convert my CV into a digital portfolio format.
+
+**Task:** Present information in a structured and recruiter-friendly manner.
+
+**Action:** Used Markdown principles and clean information hierarchy.
+
+**Result:** Built a professional portfolio that effectively communicates skills and projects.
 
 ---
 
 ### 🎤 Mock Interview Experience
-**Situation:** I completed a mock interview to simulate a real job interview.  
-**Task:** I needed to present my skills confidently and answer questions clearly.  
-**Action:** I prepared by reviewing my projects and practising my responses.  
-**Result:** I improved my confidence and communication skills for real interviews.
+
+**Situation:** Participated in a mock interview simulation.
+
+**Task:** Improve confidence and communication.
+
+**Action:** Reviewed projects and practiced responses.
+
+**Result:** Improved confidence and professional communication skills.
 
 ---
 
 ### 🌐 GitHub Pages Deployment
-**Situation:** I needed to publish my portfolio online.  
-**Task:** My objective was to deploy my repository so it could be accessed publicly.  
-**Action:** I enabled GitHub Pages and ensured all files and links worked correctly.  
-**Result:** My portfolio is now live and professionally presented online.
+
+**Situation:** Needed to publish my work publicly.
+
+**Task:** Deploy portfolio successfully.
+
+**Action:** Configured GitHub Pages and optimized project structure.
+
+**Result:** Portfolio became publicly accessible and shareable.
 
 ---
 
-### 🤝 Graduate Attributes: Ubuntu
-**Situation:** Many students struggle to find bursary information.  
-**Task:** I wanted to create a solution that helps students access opportunities.  
-**Action:** I developed Circuit SA as a platform to share this information.  
-**Result:** The platform improves access to opportunities for students.
+### 🤝 Graduate Attribute: Ubuntu
+
+**Situation:** Students struggle finding opportunities.
+
+**Task:** Create meaningful access to information.
+
+**Action:** Built Circuit SA.
+
+**Result:** Contributed toward improving accessibility and helping others.
 
 ---
 
 ## 📄 CURRICULUM VITAE (CV)
 
 ### PERSONAL DETAILS
-* **Full Name:** Thapelo Justin Masingi  
-* **Address:** 10 Dorset Str, Woodstock CPT  
-* **Contact Number:** 0647010896  
-* **Student Email:** 223050717@MYCPUT.AC.ZA  
+
+👤 Full Name: Thapelo Justin Masingi  
+📍 Location: Cape Town, South Africa  
+📞 Contact: 0647010896  
+📧 Student Email: 223050717@mycput.ac.za
 
 ---
 
-### CAREER OBJECTIVES
-I'm an ICT student specialising in Multimedia Applications with a focus on Web Development and Digital Marketing. I am seeking a Work Integrated Learning (WIL) opportunity to gain industry experience.
+### CAREER OBJECTIVE
+
+I’m an ICT Multimedia student with a growing focus on Full-Stack Development and Digital Marketing.
+
+I am currently seeking a Work Integrated Learning (WIL) opportunity where I can contribute to meaningful projects, gain industry experience, and continue developing into a well-rounded software professional.
 
 ---
 
 ### EDUCATION
-**National Diploma: Information Technology**  
-*Cape Peninsula University of Technology (CPUT) | Expected Graduation 2026*
 
-**National Senior Certificate (Matric)**  
-*Michael Denga Ramabulana Secondary School | 2021*
+**National Diploma: Information Technology**  
+Cape Peninsula University of Technology (CPUT)  
+Expected Graduation: 2026
+
+**National Senior Certificate**  
+Michael Denga Ramabulana Secondary School  
+Completed: 2021
 
 ---
 
 ### REFERENCES
-* Meagan Danielle Hamman – HAMMANM@cput.ac.za  
-* Thurlo Dean Cicero – cicerot@cput.ac.za  
+
+Meagan Danielle Hamman  
+HAMMANM@cput.ac.za
+
+Thurlo Dean Cicero  
+cicerot@cput.ac.za
 
 ---
 
-## 🎥 MOCK INTERVIEW 
+## 🎥 MOCK INTERVIEW
+
 <video controls width="100%">
-  <source src="0330.mp4" type="video/mp4">
+<source src="0330.mp4" type="video/mp4">
 </video>
 
 ---
 
 <p align="center">
-  ⭐ Thank you for viewing my portfolio  
+⭐ Thank you for visiting my portfolio
+</p>
+
+<p align="center">
+Let's build something meaningful together 🚀
 </p>
