@@ -22,7 +22,7 @@
 
 I’m an Information and Communication Technology (ICT) student at the Cape Peninsula University of Technology (CPUT), specialising in Multimedia Applications with a strong focus on Full-Stack Development and Digital Marketing.
 
-I enjoy creating digital solutions that solve practical problems and improve everyday experiences. My background in multimedia gives me a unique perspective — I don't just build applications that work; I focus on creating experiences that feel intuitive, accessible, and visually engaging.
+I enjoy creating digital solutions that solve practical problems and improve everyday experiences. My background in multimedia gives me a unique perspective, I don't just build applications that work; I focus on creating experiences that feel intuitive, accessible, and visually engaging.
 
 I naturally enjoy bridging the gap between development and design by combining front-end creativity with back-end functionality.
 
