@@ -22,11 +22,11 @@ Passionate about building digital experiences that combine clean code, creativit
 
 💼 LinkedIn: www.linkedin.com/in/thapelo-masingi
 
-💻 GitHub: https://github.com/YOURUSERNAME
+💻 GitHub: https://github.com/thapelo262
 
 📧 Email: 223050717@mycput.ac.za
 
-🌐 Portfolio: https://YOURUSERNAME.github.io/portfolio
+🌐 Portfolio: https://thapelo262.github.io/portfolio
 
 ---
 
