@@ -26,8 +26,6 @@ Passionate about building digital experiences that combine clean code, creativit
 
 📧 Email: 223050717@mycput.ac.za
 
-🌐 Portfolio: https://thapelo262.github.io/portfolio
-
 ---
 
 ## 🚀 OPEN TO
