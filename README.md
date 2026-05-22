@@ -9,12 +9,36 @@
 </p>
 
 <p align="center">
- Passionate about building digital experiences that combine clean code, modern design, and real-world impact.
+Passionate about building digital experiences that combine clean code, creativity, and meaningful impact.
 </p>
 
 <p align="center">
-📍 Cape Town, South Africa | 🎓 ICT Multimedia Student at CPUT | 🌱 Currently growing in React & Full-Stack Development
+📍 Cape Town, South Africa | 🎓 ICT Multimedia Student at CPUT | 🌱 Growing in React & Full-Stack Development
 </p>
+
+---
+
+## 🔗 CONNECT WITH ME
+
+💼 LinkedIn: www.linkedin.com/in/thapelo-masingi
+
+💻 GitHub: https://github.com/YOURUSERNAME
+
+📧 Email: 223050717@mycput.ac.za
+
+🌐 Portfolio: https://YOURUSERNAME.github.io/portfolio
+
+---
+
+## 🚀 OPEN TO
+
+✔ Work Integrated Learning (WIL)
+
+✔ Junior Developer Opportunities
+
+✔ Collaboration Projects
+
+✔ Freelance Opportunities
 
 ---
 
@@ -22,40 +46,57 @@
 
 I’m an Information and Communication Technology (ICT) student at the Cape Peninsula University of Technology (CPUT), specialising in Multimedia Applications with a strong focus on Full-Stack Development and Digital Marketing.
 
-I enjoy creating digital solutions that solve practical problems and improve everyday experiences. My background in multimedia gives me a unique perspective, I don't just build applications that work; I focus on creating experiences that feel intuitive, accessible, and visually engaging.
+I enjoy creating digital solutions that solve practical problems and improve everyday experiences. My multimedia background allows me to combine design thinking with technical development to create experiences that are functional, accessible, and visually engaging.
 
-I naturally enjoy bridging the gap between development and design by combining front-end creativity with back-end functionality.
+I enjoy bridging the gap between design and development by creating solutions that not only work well but also feel intuitive and user-friendly.
 
-Currently, I’m actively looking for a **Work Integrated Learning (WIL)** opportunity where I can contribute, learn from experienced developers, and continue growing into a professional full-stack engineer.
-
-Outside of coding, I enjoy exploring design trends, learning new technologies, and turning ideas into meaningful products.
+Currently, I am actively seeking a Work Integrated Learning (WIL) opportunity where I can contribute, grow, and learn from industry professionals.
 
 ---
 
 ## 🎯 MY MISSION
 
-To create innovative digital experiences that combine technology and creativity while making information and services more accessible for people.
+To create digital experiences that combine technology and creativity while improving accessibility and solving real-world challenges.
 
 ---
 
 ## 🌟 WHAT DRIVES ME
 
-✔ Solving real-world problems  
-✔ Building user-focused experiences  
-✔ Continuous learning and growth  
-✔ Combining creativity with technology  
-✔ Creating meaningful digital impact
+✔ Solving real-world problems
+
+✔ Building user-focused experiences
+
+✔ Continuous learning
+
+✔ Combining creativity with technology
+
+✔ Creating meaningful impact
 
 ---
 
 ## 💡 WHAT I BRING
 
-🚀 Full-stack development mindset  
-🎨 Multimedia and UI/UX background  
-📈 Digital marketing and SEO awareness  
-🤝 Strong collaboration and communication skills  
-🧠 Fast learner with a problem-solving approach  
-📱 Responsive design and accessibility thinking
+🚀 Full-Stack Development mindset
+
+🎨 Multimedia & UI/UX background
+
+📈 SEO & Digital Marketing awareness
+
+🤝 Collaboration and communication
+
+🧠 Fast learner & problem solver
+
+📱 Accessibility-first thinking
+
+---
+
+## 🎓 GITHUB EDUCATION
+
+As a CPUT student, I make use of GitHub's educational ecosystem to support my learning journey and access industry-standard development tools.
+
+GitHub Education allows students to gain practical experience with technologies used in professional environments while strengthening development workflows and portfolio presentation.
+
+*(Insert GitHub Student Developer Pack screenshot if available)*
 
 ---
 
@@ -74,7 +115,7 @@ To create innovative digital experiences that combine technology and creativity 
 
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql)
 
-### 🎨 Design & Productivity
+### 🎨 Tools
 
 ![Figma](https://img.shields.io/badge/Figma-pink?style=flat&logo=figma)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat&logo=visual-studio-code)
@@ -84,31 +125,35 @@ To create innovative digital experiences that combine technology and creativity 
 
 ## 📚 CURRENTLY LEARNING
 
-🌱 MERN Stack Development  
-🌱 Backend Architecture  
-🌱 API Integration  
-🌱 Advanced React Patterns  
-🌱 SEO Strategy & Technical Optimization
+🌱 MERN Stack Development
+
+🌱 API Integration
+
+🌱 Backend Architecture
+
+🌱 Advanced React Patterns
+
+🌱 Technical SEO
 
 ---
 
-## 💡 FEATURED PROJECTS
+## 💡 PROJECTS
 
 ### 1. MediTrack (2025)
 
 **Role:** Project Lead
 
-**Overview:**  
-MediTrack was created to tackle one of the biggest challenges in healthcare — long waiting times and administrative inefficiencies.
-
-The application focuses on improving access to healthcare by allowing users to manage appointments and streamline medical administration digitally.
+**Description:** Designed a healthcare-focused platform aimed at reducing waiting times by handling appointments and administrative tasks digitally.
 
 **Skills Applied:**
 
-✔ UI/UX Design  
-✔ Research & Problem Solving  
-✔ React Development  
-✔ User-Centered Design
+✔ UI/UX Design
+
+✔ React Development
+
+✔ User Research
+
+✔ Problem Solving
 
 #### 📸 Design Evidence (Figma UI/UX)
 
@@ -126,16 +171,17 @@ The application focuses on improving access to healthcare by allowing users to m
 
 **Role:** Lead Developer & Creator
 
-Circuit SA was developed to help students discover bursaries, learnerships, and opportunities across South Africa.
+A platform designed to improve access to bursaries and learnership opportunities for students across South Africa.
 
-The platform aims to remove barriers to information accessibility and create opportunities for young people.
+Skills:
 
-**Skills Applied:**
+✔ WordPress
 
-✔ WordPress Development  
-✔ Content Management  
-✔ SEO Optimization  
+✔ SEO
+
 ✔ Information Architecture
+
+✔ Accessibility
 
 ---
 
@@ -143,13 +189,13 @@ The platform aims to remove barriers to information accessibility and create opp
 
 **Role:** Lead Developer & Creator
 
-A multimedia-focused platform designed to deliver engaging content experiences while maintaining accessibility, SEO visibility, and performance.
+Multimedia platform optimized for accessibility, performance, and search visibility.
 
 #### 📸 Performance & SEO Evidence
 
-| Search Visibility | Performance Analytics |
-|------------------|----------------------|
-| ![VeldtView SEO](veldt.jpeg) | ![VeldtView Analytics](veldt2.jpeg) |
+| Search Visibility | Analytics |
+|------------------|-----------|
+| ![VeldtView SEO](veldt.jpeg) | ![Analytics](veldt2.jpeg) |
 
 ---
 
@@ -157,24 +203,17 @@ A multimedia-focused platform designed to deliver engaging content experiences w
 
 **Role:** Co-Designer
 
-A collaborative educational project designed to support diverse learning styles by providing multiple content formats for students.
-
-**Skills Applied:**
-
-✔ Team Collaboration  
-✔ Brand Identity  
-✔ User Experience Design  
-✔ Wireframing
+A collaborative project focused on supporting different learning styles through educational content experiences.
 
 ---
 
 ## 📈 MY DEVELOPMENT JOURNEY
 
-I believe growth happens by building.
+I believe growth happens through building and learning publicly.
 
-Every project I create teaches me something new — whether it is debugging React applications, refining UI systems, improving accessibility, or understanding user behaviour.
+Each project teaches me something new — whether debugging React applications, refining accessibility, or improving user experience.
 
-I enjoy documenting that process because learning publicly creates opportunities for collaboration and continuous improvement.
+I enjoy documenting that process because growth creates opportunities for collaboration and improvement.
 
 ---
 
@@ -182,13 +221,13 @@ I enjoy documenting that process because learning publicly creates opportunities
 
 ### 📘 Coding in Markdown
 
-**Situation:** Needed to convert my CV into a digital portfolio format.
+**Situation:** Needed to convert my CV into a web-friendly portfolio.
 
-**Task:** Present information in a structured and recruiter-friendly manner.
+**Task:** Present information in a clean and professional way.
 
-**Action:** Used Markdown principles and clean information hierarchy.
+**Action:** Used Markdown formatting with structured layouts and reusable components.
 
-**Result:** Built a professional portfolio that effectively communicates skills and projects.
+**Result:** Created a portfolio that presents information clearly and professionally.
 
 ---
 
@@ -198,33 +237,37 @@ I enjoy documenting that process because learning publicly creates opportunities
 
 **Task:** Improve confidence and communication.
 
-**Action:** Reviewed projects and practiced responses.
+**Action:** Practiced project explanations and professional responses.
 
-**Result:** Improved confidence and professional communication skills.
+**Result:** Improved confidence and interview readiness.
+
+---
+
+## 🎥 MOCK INTERVIEW
+
+Click below to watch:
+
+[▶ Watch Mock Interview](0330.mp4)
 
 ---
 
 ### 🌐 GitHub Pages Deployment
 
-**Situation:** Needed to publish my work publicly.
+**Situation:** Needed to make my portfolio publicly accessible.
 
-**Task:** Deploy portfolio successfully.
+**Task:** Deploy a professional online portfolio.
 
-**Action:** Configured GitHub Pages and optimized project structure.
+**Action:** Configured GitHub Pages and optimized content structure.
 
-**Result:** Portfolio became publicly accessible and shareable.
+**Result:** Successfully launched an accessible digital portfolio.
 
 ---
 
-### 🤝 Graduate Attribute: Ubuntu
+## 🌐 LIVE PORTFOLIO
 
-**Situation:** Students struggle finding opportunities.
+Portfolio Link:
 
-**Task:** Create meaningful access to information.
-
-**Action:** Built Circuit SA.
-
-**Result:** Contributed toward improving accessibility and helping others.
+https://YOURUSERNAME.github.io/portfolio
 
 ---
 
@@ -232,55 +275,72 @@ I enjoy documenting that process because learning publicly creates opportunities
 
 ### PERSONAL DETAILS
 
-👤 Full Name: Thapelo Justin Masingi  
-📍 Location: Cape Town, South Africa  
-📞 Contact: 0647010896  
-📧 Student Email: 223050717@mycput.ac.za
+👤 Full Name: Thapelo Justin Masingi
+
+📍 Cape Town, South Africa
+
+📞 0647010896
+
+📧 223050717@mycput.ac.za
 
 ---
 
 ### CAREER OBJECTIVE
 
-I’m an ICT Multimedia student with a growing focus on Full-Stack Development and Digital Marketing.
+I’m an ICT Multimedia student specialising in Full-Stack Development and Digital Marketing seeking a Work Integrated Learning opportunity where I can contribute and continue growing professionally.
 
-I am currently seeking a Work Integrated Learning (WIL) opportunity where I can contribute to meaningful projects, gain industry experience, and continue developing into a well-rounded software professional.
+---
+
+### CORE COMPETENCIES
+
+✔ Full-Stack Development
+
+✔ UI/UX Design
+
+✔ SEO Optimization
+
+✔ Team Collaboration
+
+✔ Problem Solving
+
+✔ Responsive Design
+
+✔ Digital Marketing
 
 ---
 
 ### EDUCATION
 
-**National Diploma: Information Technology**  
-Cape Peninsula University of Technology (CPUT)  
+**National Diploma: Information Technology**
+
+Cape Peninsula University of Technology
+
 Expected Graduation: 2026
 
-**National Senior Certificate**  
-Michael Denga Ramabulana Secondary School  
+**National Senior Certificate**
+
+Michael Denga Ramabulana Secondary School
+
 Completed: 2021
 
 ---
 
 ### REFERENCES
 
-Meagan Danielle Hamman  
+Meagan Danielle Hamman
+
 HAMMANM@cput.ac.za
 
-Thurlo Dean Cicero  
+Thurlo Dean Cicero
+
 cicerot@cput.ac.za
 
 ---
 
-## 🎥 MOCK INTERVIEW
-
-<video controls width="100%">
-<source src="0330.mp4" type="video/mp4">
-</video>
-
----
-
 <p align="center">
+
 ⭐ Thank you for visiting my portfolio
-</p>
 
-<p align="center">
 Let's build something meaningful together 🚀
+
 </p>
