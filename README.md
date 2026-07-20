@@ -261,7 +261,7 @@ Click below to watch:
 
 Portfolio Link:
 
-https://YOURUSERNAME.github.io/portfolio
+https://thapelo262.github.io
 
 ---
 
