@@ -92,7 +92,6 @@ To create digital experiences that combine technology and creativity while impro
 
 As a CPUT student, I make use of GitHub's educational ecosystem to support my learning journey and access industry-standard development tools.
 
-GitHub Education allows students to gain practical experience with technologies used in professional environments while strengthening development workflows and portfolio presentation.
 ---
 
 ## 🛠️ TECH STACK
