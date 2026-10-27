@@ -83,7 +83,9 @@ To create digital experiences that combine technology and creativity while impro
 **Description:** Built a water usage monitoring application featuring real-time usage graphs, interactive dashboard components, and settings panels.  
 **Skills Applied:** React, Frontend Architecture, State Management, UI Design.  
 #### 📸 Product Evidence
-![Water Watch Dashboard](waterwatch/water-watch-dashboard.png)
+| Dashboard Overview | Usage Analytics View |
+|-------------------|----------------------|
+| ![Dashboard](waterwatch/water-watch-dashboard.png) | ![Analytics](waterwatch/water-watch-analytics.png) |
 
 ---
 
@@ -92,7 +94,9 @@ To create digital experiences that combine technology and creativity while impro
 **Description:** Developed responsive web interfaces and architectural layouts focusing on modern web standards and user engagement.  
 **Skills Applied:** Frontend Development, UI/UX Design, CSS Layouts, Responsive Design.  
 #### 📸 Project Evidence
-![Urban Edge Interface](urban-edge/urban-edge-ui.png)
+| Homepage Layout | Interface Elements |
+|----------------|-------------------|
+| ![Homepage](urban-edge/urban-edge-ui.png) | ![Elements](urban-edge/urban-edge-elements.png) |
 
 ---
 
@@ -101,7 +105,9 @@ To create digital experiences that combine technology and creativity while impro
 **Description:** Designed and built a platform connecting job seekers with employment opportunities through structured dashboards and interactive application components.  
 **Skills Applied:** React, Component Design, User Flow Optimization.  
 #### 📸 Project Evidence
-![WorkLink Dashboard](worklink/worklink-dashboard.png)
+| Job Dashboard | Application Flow |
+|--------------|------------------|
+| ![Dashboard](worklink/worklink-dashboard.png) | ![Flow](worklink/worklink-flow.png) |
 
 ---
 
@@ -110,7 +116,9 @@ To create digital experiences that combine technology and creativity while impro
 **Description:** Designed "THE LAUNCHPAD" marketing campaign, social media content calendars, and promotional interfaces.  
 **Skills Applied:** Campaign Strategy, Graphic Design, Content Planning.  
 #### 📸 Project Evidence
-![Innovation Week Asset](innovation_week/launchpad-campaign.png)
+| Campaign Banner | Promotional Asset |
+|----------------|-------------------|
+| ![Campaign](innovation_week/launchpad-campaign.png) | ![Asset](innovation_week/launchpad-asset.png) |
 
 ---
 
@@ -123,14 +131,20 @@ To create digital experiences that combine technology and creativity while impro
 |------------------|--------------------|
 | ![Log In](meditrack_figma/log-in-page.png) | ![Dashboard](meditrack_figma/home-page.png) |
 #### ⚙️ Technical Development (React)
-![MediTrack React Product Page](meditrack_figma/products-page.png)
+| Product Page Implementation | Component View |
+|----------------------------|----------------|
+| ![Products](meditrack_figma/products-page.png) | ![Component](meditrack_figma/component-view.png) |
 
 ---
 
 ### 6. Circuit SA (2025 – Present)
 **Role:** Lead Developer & Creator  
 A platform designed to improve access to bursaries and learnership opportunities for students across South Africa.  
-Skills: WordPress, SEO, Information Architecture, Accessibility.
+Skills: WordPress, SEO, Information Architecture, Accessibility.  
+#### 📸 Platform Evidence
+| Platform Homepage | Resource Directory |
+|------------------|-------------------|
+| ![Circuit Homepage](circuitsa/homepage.png) | ![Directory](circuitsa/directory.png) |
 
 ---
 
