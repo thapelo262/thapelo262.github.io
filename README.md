@@ -83,9 +83,9 @@ To create digital experiences that combine technology and creativity while impro
 **Description:** Built a water usage monitoring application featuring real-time usage graphs, interactive dashboard components, and settings panels.  
 **Skills Applied:** React, Frontend Architecture, State Management, UI Design.  
 #### 📸 Product Evidence
-| Dashboard Overview | Usage Analytics View |
-|-------------------|----------------------|
-| ![Dashboard](waterwatch/water-watch-dashboard.png) | ![Analytics](waterwatch/water-watch-analytics.png) |
+| Water Watch View 1 | Water Watch View 2 |
+|--------------------|--------------------|
+| ![Water Watch 1](waterwatch/waterwatch-1.png) | ![Water Watch 2](waterwatch/waterwatch-2.png) |
 
 ---
 
@@ -116,9 +116,9 @@ To create digital experiences that combine technology and creativity while impro
 **Description:** Designed "THE LAUNCHPAD" marketing campaign, social media content calendars, and promotional interfaces.  
 **Skills Applied:** Campaign Strategy, Graphic Design, Content Planning.  
 #### 📸 Project Evidence
-| Campaign Banner | Promotional Asset |
-|----------------|-------------------|
-| ![Campaign](innovation_week/launchpad-campaign.png) | ![Asset](innovation_week/launchpad-asset.png) |
+| Innovation View 1 | Innovation View 2 |
+|-------------------|-------------------|
+| ![Innovation 1](innovation_week/innovation-1.png) | ![Innovation 2](innovation_week/innovation-2.png) |
 
 ---
 
@@ -135,18 +135,7 @@ To create digital experiences that combine technology and creativity while impro
 
 ---
 
-### 6. Circuit SA (2025 – Present)
-**Role:** Lead Developer & Creator  
-A platform designed to improve access to bursaries and learnership opportunities for students across South Africa.  
-Skills: WordPress, SEO, Information Architecture, Accessibility.  
-#### 📸 Platform Evidence
-| Platform Homepage | Resource Directory |
-|------------------|-------------------|
-| ![Circuit Homepage](circuitsa/homepage.png) | ![Directory](circuitsa/directory.png) |
-
----
-
-### 7. VeldtView
+### 6. VeldtView
 **Role:** Lead Developer & Creator  
 Multimedia platform optimized for accessibility, performance, and search visibility.  
 #### 📸 Performance & SEO Evidence
