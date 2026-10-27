@@ -129,11 +129,9 @@ To create digital experiences that combine technology and creativity while impro
 #### 📸 Design Evidence (Figma UI/UX)
 | Login Page Mockup | Dashboard Interface |
 |------------------|--------------------|
-| ![Log In](meditrack_figma/log-in-page.png) | ![Dashboard](meditrack_figma/home-page.png) |
+| ![Log In](log-in-page.png) | ![Dashboard](home-page.png) |
 #### ⚙️ Technical Development (React)
-| Product Page Implementation | Component View |
-|----------------------------|----------------|
-| ![Products](meditrack_figma/products-page.png) | ![Component](meditrack_figma/component-view.png) |
+![MediTrack React Product Page](products-page.png)
 
 ---
 
