@@ -85,7 +85,7 @@ To create digital experiences that combine technology and creativity while impro
 #### 📸 Product Evidence
 | Water Watch View 1 | Water Watch View 2 |
 |--------------------|--------------------|
-| ![Water Watch 1](waterwatch/waterwatch-1.png) | ![Water Watch 2](waterwatch/waterwatch-2.png) |
+| ![Water Watch 1](waterwatch-1.png) | ![Water Watch 2](waterwatch-2.png) |
 
 ---
 
@@ -96,7 +96,7 @@ To create digital experiences that combine technology and creativity while impro
 #### 📸 Project Evidence
 | Homepage Layout | Interface Elements |
 |----------------|-------------------|
-| ![Homepage](urban-edge/urban-edge-ui.png) | ![Elements](urban-edge/urban-edge-elements.png) |
+| ![Homepage](urban-edge-1.png) | ![Elements](urban-edge-2.png) |
 
 ---
 
@@ -107,7 +107,7 @@ To create digital experiences that combine technology and creativity while impro
 #### 📸 Project Evidence
 | Job Dashboard | Application Flow |
 |--------------|------------------|
-| ![Dashboard](worklink/worklink-dashboard.png) | ![Flow](worklink/worklink-flow.png) |
+| ![Dashboard](worklink-1.png) | ![Flow](worklink-2.png) |
 
 ---
 
@@ -118,7 +118,7 @@ To create digital experiences that combine technology and creativity while impro
 #### 📸 Project Evidence
 | Innovation View 1 | Innovation View 2 |
 |-------------------|-------------------|
-| ![Innovation 1](innovation_week/innovation-1.png) | ![Innovation 2](innovation_week/innovation-2.png) |
+| ![Innovation 1](innovation-1.png) | ![Innovation 2](innovation-2.png) |
 
 ---
 
